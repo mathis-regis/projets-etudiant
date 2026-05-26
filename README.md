@@ -8,7 +8,7 @@ On gagne quand toute les cases sans bombes sont révélés.
 Ce projet a été réalisé a l'aide de processing donc il faut avoir processing d'installer sur la machine.  
 *Comment Lancé*  
 -dézipper le fichier  
--ouvrir le fichier avec processing "GMI4_REGIS_Mathis_Demineur_version_finale.pde", puis l'éxécuter.  
+-ouvrir le fichier avec processing "GMI4_REGIS_Mathis_Demineur_version_finale/GMI4_REGIS_Mathis_Demineur_version_finale.pde", puis l'éxécuter.  
 
 3) Projet POO(Gestionnaire de mairie):  
 *Résumé:*  
