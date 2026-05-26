@@ -1,5 +1,5 @@
 **Guide de lancement des différents projet ainsi que résumé**  
-1) Projet du démineur:  
+1) Projet du démineur (L1 2024):  
 *Résumé*  
 Ce projet étais celui du premier semestre de la L1 en programation impérative et consistais a crée un démineur, on peut poser des drapeaux sur les cases avec le clic droit de la souris(pour marquer les cases qu'ont suspecte être des bombes), découvrir une case avec le clic gauche (mais attention au bombes qui vous font perdre et recommencer la partie).  
 Les case avec bombes sont aléatoires pour chaque partie et quand on révéle une case sans bombes le nombre de bombe autour de cette case est indiqué.  
@@ -10,10 +10,16 @@ Ce projet a été réalisé a l'aide de processing donc il faut avoir processing
 -dézipper le fichier  
 -ouvrir le fichier avec processing "GMI4_REGIS_Mathis_Demineur_version_finale/GMI4_REGIS_Mathis_Demineur_version_finale.pde", puis l'éxécuter.  
 
-3) Projet POO(Gestionnaire de mairie):  
+2) Projet POO(Gestionnaire de mairie ,L2 2025):  
 *Résumé:*  
 Ce projet avais pour but de nous initier a la programation orientée objet et le rendu finale était une application pouvant gérer des citoyens d'une mairie.  
 Le language utilisé est java donc votre machine dois avoir java d'installé.  
 *Comment lancé:*  
 -dézipper le fichier  
 -utiliser un terminal pour lancer la commande java sur le fichier "projet POO REGIS/src/vue/VueProjet.java"  
+
+3) Projet d'une application de billeterie (L3 2026):  
+*Résumé*  
+Ce projet étais un projet a réaliser en groupe au dernier semestre de la L3, nous avons réaliser une application permettant de gérer un système de billeterie pour des spectacles.  
+Toute la documentation du projet se trouve sur ce dépot.  
+🔗 Dépôt GitHub du projet : https://github.com/klNuno/Projet-Billetterie
